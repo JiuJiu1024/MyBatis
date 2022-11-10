@@ -5,6 +5,7 @@ public class GitHello {
         System.out.println("333333333333");
         System.out.println("444444444444");
         System.out.println("555555555555");
+        System.out.println("hot-fix test2");
         System.out.println("1213 master");
     }
 }
