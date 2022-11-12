@@ -11,5 +11,6 @@ public class GitHello {
         System.out.println("guthub test 1");
         System.out.println("idea test");
         System.out.println("test1");
+        System.out.println("github test1");
     }
 }
